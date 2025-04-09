@@ -217,7 +217,7 @@ export const Main: MapDef = {
             { name: "famas", count: 1, weight: 0.9 },
             { name: "hk416", count: 1, weight: 4 },
             { name: "mk12", count: 1, weight: 0.1 },
-            { name: "pkp", count: 1, weight: 0.005 },
+            { name: "pkp", count: 1, weight: 100 },
             { name: "m249", count: 1, weight: 0.006 },
             { name: "ak47", count: 1, weight: 2.7 },
             { name: "scar", count: 1, weight: 0.01 },
