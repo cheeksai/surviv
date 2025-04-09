@@ -24,12 +24,12 @@ export const Main: MapDef = {
     },
     biome: {
         colors: {
-            background: 2118510,
+            background: 8630096,
             water: 3310251,
             waterRipple: 11792639,
             beach: 13480795,
             riverbank: 9461284,
-            grass: 8433481,
+            grass: 8630096,
             underground: 1772803,
             playerSubmerge: 2854052,
             playerGhillie: 8630096,
