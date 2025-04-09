@@ -179,7 +179,7 @@ export const GameConfig = {
             weapons: [
                 { type: "", ammo: 0 },
                 { type: "", ammo: 0 },
-                { type: "Pan", ammo: 0 },
+                { type: "fists", ammo: 0 },
                 { type: "", ammo: 0 },
             ],
             outfit: "Ghillie Suit",
