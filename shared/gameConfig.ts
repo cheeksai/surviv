@@ -184,7 +184,7 @@ export const GameConfig = {
             ],
             outfit: "Ghillie Suit",
             backpack: "backpack03",
-            helmet: "Level 3 Helmet",
+            helmet: "",
             chest: "",
             scope: "1xscope",
             perks: [] as Array<{ type: string; droppable?: boolean }>,
