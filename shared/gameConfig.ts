@@ -132,9 +132,9 @@ export const GameConfig = {
     },
     player: {
         radius: 1,
-        maxVisualRadius: 375,
+        maxVisualRadius: 305,
         maxInteractionRad: 3.5,
-        health: 1000,
+        health: 100,
         reviveHealth: 24,
         minActiveTime: 10,
         boostDecay: 0.33,
@@ -333,7 +333,7 @@ export const GameConfig = {
             "2xscope": 36,
             "4xscope": 48,
             "8xscope": 68,
-            "15xscope": 330,
+            "15xscope": 300,
         } as Record<string, number>,
         mobile: {
             "1xscope": 32,
