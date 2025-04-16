@@ -25,7 +25,7 @@ export const Main: MapDef = {
     biome: {
         colors: {
             background: 8630096,
-            water: 3310251,
+            water: 8630096,
             waterRipple: 11792639,
             beach: 13480795,
             riverbank: 9461284,
